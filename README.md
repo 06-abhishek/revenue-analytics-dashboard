@@ -65,8 +65,6 @@ Rename `.env.example` in the `server` folder to `.env` and fill in your credenti
 
 ```env
 MONGO_URI=your_mongodb_connection_string
-PORT=5000
-REDIS_URI=redis://localhost:6379  # Optional
 ```
 
 ---
