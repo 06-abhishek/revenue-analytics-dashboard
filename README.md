@@ -43,7 +43,15 @@ cd client
 npm install
 npm run dev
 
-# 3. Install & Run Backend
+# 3. Start Redis Server (IMPORTANT)
+# Make sure Redis is installed and running before starting backend
+# For Mac/Linux (with Homebrew):
+brew services start redis
+
+# For Windows (with Redis installed via MSI or Chocolatey):
+redis-server
+
+# 4. Install & Run Backend
 cd ../server
 npm install
 npm start
