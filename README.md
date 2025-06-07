@@ -1,7 +1,3 @@
-Here’s your updated `README.md` with **exact setup instructions** you requested and environment variable info included:
-
----
-
 # 📊 Revenue Analytics Dashboard
 
 A modern, responsive **Revenue Analytics Dashboard** built with **Next.js App Router**, **Tailwind CSS**, and **Node.js** backend. This app allows businesses to visualize product-wise revenue, filter by month/year, and gain actionable insights.
