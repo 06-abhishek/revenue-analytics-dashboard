@@ -73,4 +73,4 @@ MONGO_URI=your_mongodb_connection_string
 
 > *(Replace this image link with a real screenshot if available)*
 
-![Dashboard Preview](https://your-screenshot-url.com)
+![Dashboard Preview](./client/public/screenshots/preview.png)
