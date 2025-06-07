@@ -70,7 +70,4 @@ MONGO_URI=your_mongodb_connection_string
 ---
 
 ## 📸 Preview
-
-> *(Replace this image link with a real screenshot if available)*
-
 ![Dashboard Preview](./client/public/preview.png)
